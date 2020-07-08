@@ -26,7 +26,7 @@
     <p><a href="<?php echo route('/despedida') ?>">Despedida</a></p>
 
     <center><img src="https://economiatic.com/wp-content/uploads/2018/02/finanzas.jpg?ezimgfmt=rs:352x227/rscb11/ng:webp/ngcb11" width="350" height="250"></center>
-    <br>
+    
     <style>
             html, body {
                 background-color: #000000;

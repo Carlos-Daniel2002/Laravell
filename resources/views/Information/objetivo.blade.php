@@ -20,7 +20,7 @@
     <p><a href="<?php echo route('/despedida') ?>">Despedida</a></p>
 
     <center><img src="https://www.esan.edu.pe/apuntes-empresariales/2017/01/09/gestionrh_principal.jpg" width="350" height="250"></center>
-
+    <br>
     <style>
             html, body {
                 background-color: #000000;
